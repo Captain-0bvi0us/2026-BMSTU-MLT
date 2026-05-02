@@ -1,1 +1,2 @@
-# 2026----
+# 2026-BMSTU-MLT
+# Machine Learning Technology / Технология Машинного Обучения
