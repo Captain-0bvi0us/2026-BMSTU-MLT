@@ -1,0 +1,33 @@
+# Виртуальные окружения
+.venv/
+venv/
+ENV/
+env/
+
+# Кэш и байткод Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Данные 
+*.csv
+*.html
+
+# Инструменты / окружение
+.idea/
+.vscode/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# pytest, mypy и прочее
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
